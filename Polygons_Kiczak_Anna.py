@@ -7,7 +7,7 @@ while (numOfPoints)<3:
     # a figure/polygon must have at least 3 points
     numOfPoints = int (input('Needs more than three points: '))
 
-print('Give the x and y values (in rows - value of x + enter, value y + enter): ')
+print('Give the x and y values in counter clockwise direction (in rows - value of x + enter, value y + enter): ')
 # Creating empty lists for x and y s
 x = []
 y = []   
